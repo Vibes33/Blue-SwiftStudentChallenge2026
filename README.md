@@ -262,5 +262,3 @@ Les composants UI s’adaptent dynamiquement à ces options.
 - Optimiser le poids des assets images et du zip embarqué dans le repo.
 
 ---
-
-Si tu veux, je peux aussi te générer une **version courte orientée jury/portfolio** (1 page) et une **version technique développeur** (plus détaillée) en complément.
